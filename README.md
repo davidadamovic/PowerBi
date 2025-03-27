@@ -17,7 +17,4 @@ On the page three focus was put to answer the question to find a date when least
 The values had been put in an edited table in order to show all the important digits. By interacting with table, we can show the wished value.
 Next to the table is a Column chart that shows profit of all the countries. Profit was counted by subtracting the Sender budget with total Value exported. 
 
-
-Why you believe your technical analysis is correct and what steps you took to confirm your results.
-
-The measures were manually checked on calculator by using one value from each table and the result we wanted to achieve was correct most od the times. If not, we would know after we checked the calculation.  
+#### The file "Meat_senaste.pbix" has to be dowloaded!
